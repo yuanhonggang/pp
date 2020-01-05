@@ -1,0 +1,4053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2019-12-21T01:42:27Z</date>
+	<key>Application Version</key><string>1.0.2.37</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/yuanhonggang/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>CC42E309FBA09684</string>
+	<key>Tracks</key>
+	<dict>
+		<key>291</key>
+		<dict>
+			<key>Track ID</key><integer>291</integer>
+			<key>Name</key><string>一无所有（崔健）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>45224336</integer>
+			<key>Total Time</key><integer>256373</integer>
+			<key>Date Modified</key><date>2017-11-11T03:57:36Z</date>
+			<key>Date Added</key><date>2019-10-19T09:37:32Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654351714</integer>
+			<key>Play Date UTC</key><date>2019-10-19T09:41:54Z</date>
+			<key>Persistent ID</key><string>1C8182648F7C3924</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89%EF%BC%88%E5%B4%94%E5%81%A5%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>293</key>
+		<dict>
+			<key>Track ID</key><integer>293</integer>
+			<key>Name</key><string>What a fxxking wonderful world</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>60192873</integer>
+			<key>Total Time</key><integer>341226</integer>
+			<key>Date Modified</key><date>2017-11-11T02:45:20Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8F96265600A99346</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/What%20a%20fxxking%20wonderful%20world.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>295</key>
+		<dict>
+			<key>Track ID</key><integer>295</integer>
+			<key>Name</key><string>One Night In北京（信乐团）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>48832304</integer>
+			<key>Total Time</key><integer>276826</integer>
+			<key>Date Modified</key><date>2017-11-11T03:58:24Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>96C8F8D6A15B1077</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/One%20Night%20In%E5%8C%97%E4%BA%AC%EF%BC%88%E4%BF%A1%E4%B9%90%E5%9B%A2%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>297</key>
+		<dict>
+			<key>Track ID</key><integer>297</integer>
+			<key>Name</key><string>NO(kala)</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>26232282</integer>
+			<key>Total Time</key><integer>148706</integer>
+			<key>Date Modified</key><date>2017-11-11T02:45:18Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>51D8CB8ECEB9BC69</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/NO(kala).wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>299</key>
+		<dict>
+			<key>Track ID</key><integer>299</integer>
+			<key>Name</key><string>Natural High (英语)</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>52614888</integer>
+			<key>Total Time</key><integer>298266</integer>
+			<key>Date Modified</key><date>2017-11-11T02:51:34Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>67B8954E3908F378</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/Natural%20High%20(%E8%8B%B1%E8%AF%AD).wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>301</key>
+		<dict>
+			<key>Track ID</key><integer>301</integer>
+			<key>Name</key><string>Is This Love</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>38154376</integer>
+			<key>Total Time</key><integer>216293</integer>
+			<key>Date Modified</key><date>2017-11-11T01:46:04Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E1B1DABA43881C99</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/Is%20This%20Love.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>303</key>
+		<dict>
+			<key>Track ID</key><integer>303</integer>
+			<key>Name</key><string>Don't Break My Heart</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>55641644</integer>
+			<key>Total Time</key><integer>315426</integer>
+			<key>Date Modified</key><date>2017-11-11T02:01:54Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0295FD8E66F62959</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/Don't%20Break%20My%20Heart.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>305</key>
+		<dict>
+			<key>Track ID</key><integer>305</integer>
+			<key>Name</key><string>Apple</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>40539282</integer>
+			<key>Total Time</key><integer>229813</integer>
+			<key>Date Modified</key><date>2017-11-11T01:47:28Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5F729764BEA85932</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/Apple.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>307</key>
+		<dict>
+			<key>Track ID</key><integer>307</integer>
+			<key>Name</key><string>在水一方 - 轮回乐队</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>56330778</integer>
+			<key>Total Time</key><integer>319333</integer>
+			<key>Date Modified</key><date>2017-11-11T02:04:24Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>47E043F6B90D5A70</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%9C%A8%E6%B0%B4%E4%B8%80%E6%96%B9%20-%20%E8%BD%AE%E5%9B%9E%E4%B9%90%E9%98%9F.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>309</key>
+		<dict>
+			<key>Track ID</key><integer>309</integer>
+			<key>Name</key><string>再见（张震岳）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>32728160</integer>
+			<key>Total Time</key><integer>185533</integer>
+			<key>Date Modified</key><date>2017-11-11T03:51:46Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>936CCD1D03C2B2B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%86%8D%E8%A7%81%EF%BC%88%E5%BC%A0%E9%9C%87%E5%B2%B3%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>311</key>
+		<dict>
+			<key>Track ID</key><integer>311</integer>
+			<key>Name</key><string>再见 再见</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>58125186</integer>
+			<key>Total Time</key><integer>329506</integer>
+			<key>Date Modified</key><date>2017-11-11T01:45:22Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>49654606527C2BED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%86%8D%E8%A7%81%20%E5%86%8D%E8%A7%81.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>313</key>
+		<dict>
+			<key>Track ID</key><integer>313</integer>
+			<key>Name</key><string>永远是你好</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>48209434</integer>
+			<key>Total Time</key><integer>273293</integer>
+			<key>Date Modified</key><date>2017-11-11T02:55:50Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>757971F024532DE5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%B0%B8%E8%BF%9C%E6%98%AF%E4%BD%A0%E5%A5%BD.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>315</key>
+		<dict>
+			<key>Track ID</key><integer>315</integer>
+			<key>Name</key><string>一个人在途上</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>89552863</integer>
+			<key>Total Time</key><integer>507666</integer>
+			<key>Date Modified</key><date>2017-11-11T02:53:10Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5304FDEA26D79D98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%9C%A8%E9%80%94%E4%B8%8A.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>317</key>
+		<dict>
+			<key>Track ID</key><integer>317</integer>
+			<key>Name</key><string>一额汗</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>48526920</integer>
+			<key>Total Time</key><integer>275093</integer>
+			<key>Date Modified</key><date>2017-11-11T02:53:10Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CEDAC760692B6548</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%B8%80%E9%A2%9D%E6%B1%97.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>319</key>
+		<dict>
+			<key>Track ID</key><integer>319</integer>
+			<key>Name</key><string>夜色 - 北京摇滚群星 </string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>58595759</integer>
+			<key>Total Time</key><integer>332173</integer>
+			<key>Date Modified</key><date>2017-11-11T02:03:00Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C52EABD89BAC5A42</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%A4%9C%E8%89%B2%20-%20%E5%8C%97%E4%BA%AC%E6%91%87%E6%BB%9A%E7%BE%A4%E6%98%9F%20.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>321</key>
+		<dict>
+			<key>Track ID</key><integer>321</integer>
+			<key>Name</key><string>夜空中最亮的星</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>44497704</integer>
+			<key>Total Time</key><integer>252253</integer>
+			<key>Date Modified</key><date>2017-11-11T01:46:52Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>A095D82DF17E5E31</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%A4%9C%E7%A9%BA%E4%B8%AD%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>323</key>
+		<dict>
+			<key>Track ID</key><integer>323</integer>
+			<key>Name</key><string>阳光照进回忆里</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>56711640</integer>
+			<key>Total Time</key><integer>321493</integer>
+			<key>Date Modified</key><date>2017-11-11T01:45:44Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D8B53EC083B82DFD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%98%B3%E5%85%89%E7%85%A7%E8%BF%9B%E5%9B%9E%E5%BF%86%E9%87%8C.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>325</key>
+		<dict>
+			<key>Track ID</key><integer>325</integer>
+			<key>Name</key><string>钟鼓楼</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>89940834</integer>
+			<key>Total Time</key><integer>509866</integer>
+			<key>Date Modified</key><date>2017-11-11T01:58:40Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>A9860BAC584E4349</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%92%9F%E9%BC%93%E6%A5%BC.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>327</key>
+		<dict>
+			<key>Track ID</key><integer>327</integer>
+			<key>Name</key><string>信仰在空中飘扬（汪峰）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>76731728</integer>
+			<key>Total Time</key><integer>434986</integer>
+			<key>Date Modified</key><date>2017-11-11T03:53:10Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2A259FF0174BB467</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%BF%A1%E4%BB%B0%E5%9C%A8%E7%A9%BA%E4%B8%AD%E9%A3%98%E6%89%AC%EF%BC%88%E6%B1%AA%E5%B3%B0%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>329</key>
+		<dict>
+			<key>Track ID</key><integer>329</integer>
+			<key>Name</key><string>新裤子 mix</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>21121063</integer>
+			<key>Total Time</key><integer>119733</integer>
+			<key>Date Modified</key><date>2017-11-11T01:26:02Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CF553FC0F2A6D078</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%96%B0%E8%A3%A4%E5%AD%90%20mix.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>331</key>
+		<dict>
+			<key>Track ID</key><integer>331</integer>
+			<key>Name</key><string>小鸟</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>36762240</integer>
+			<key>Total Time</key><integer>208400</integer>
+			<key>Date Modified</key><date>2017-11-11T01:58:30Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>A2E1087F0D6458D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%B0%8F%E9%B8%9F.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>333</key>
+		<dict>
+			<key>Track ID</key><integer>333</integer>
+			<key>Name</key><string>中国人民志愿军战歌</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>30665876</integer>
+			<key>Total Time</key><integer>173840</integer>
+			<key>Date Modified</key><date>2017-11-11T01:57:24Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9CA7B22C62DD9A8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%88%98%E6%AD%8C.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>335</key>
+		<dict>
+			<key>Track ID</key><integer>335</integer>
+			<key>Name</key><string>相伴到永远</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>53421296</integer>
+			<key>Total Time</key><integer>302840</integer>
+			<key>Date Modified</key><date>2017-11-11T02:01:50Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3F1DE07E4C7E0D5B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%9B%B8%E4%BC%B4%E5%88%B0%E6%B0%B8%E8%BF%9C.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>337</key>
+		<dict>
+			<key>Track ID</key><integer>337</integer>
+			<key>Name</key><string>无地自容（黑豹乐队）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>59338688</integer>
+			<key>Total Time</key><integer>336386</integer>
+			<key>Date Modified</key><date>2017-11-11T03:57:08Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E1989123003D1391</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%97%A0%E5%9C%B0%E8%87%AA%E5%AE%B9%EF%BC%88%E9%BB%91%E8%B1%B9%E4%B9%90%E9%98%9F%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>339</key>
+		<dict>
+			<key>Track ID</key><integer>339</integer>
+			<key>Name</key><string>我是一只小小鸟（罗琦）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>56426912</integer>
+			<key>Total Time</key><integer>319880</integer>
+			<key>Date Modified</key><date>2017-11-11T03:52:48Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B0D990B287540B42</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%88%91%E6%98%AF%E4%B8%80%E5%8F%AA%E5%B0%8F%E5%B0%8F%E9%B8%9F%EF%BC%88%E7%BD%97%E7%90%A6%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>341</key>
+		<dict>
+			<key>Track ID</key><integer>341</integer>
+			<key>Name</key><string>我的路（汪峰）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>46555568</integer>
+			<key>Total Time</key><integer>263920</integer>
+			<key>Date Modified</key><date>2017-11-11T03:53:38Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0ACD3D595F0BB0B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%88%91%E7%9A%84%E8%B7%AF%EF%BC%88%E6%B1%AA%E5%B3%B0%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>343</key>
+		<dict>
+			<key>Track ID</key><integer>343</integer>
+			<key>Name</key><string>我不想失去你</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>30670180</integer>
+			<key>Total Time</key><integer>173866</integer>
+			<key>Date Modified</key><date>2017-11-11T01:28:16Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>45C2D87E183C8E7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%88%91%E4%B8%8D%E6%83%B3%E5%A4%B1%E5%8E%BB%E4%BD%A0.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>345</key>
+		<dict>
+			<key>Track ID</key><integer>345</integer>
+			<key>Name</key><string>我是一个服务员</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>37185223</integer>
+			<key>Total Time</key><integer>210800</integer>
+			<key>Date Modified</key><date>2017-11-11T01:27:56Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>A6D0999F06C09F49</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E6%9C%8D%E5%8A%A1%E5%91%98.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>347</key>
+		<dict>
+			<key>Track ID</key><integer>347</integer>
+			<key>Name</key><string>窝囊废的肚爤</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>46607652</integer>
+			<key>Total Time</key><integer>264213</integer>
+			<key>Date Modified</key><date>2017-11-11T02:44:56Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>61C7A45649A936F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%AA%9D%E5%9B%8A%E5%BA%9F%E7%9A%84%E8%82%9A%E7%88%A4.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>349</key>
+		<dict>
+			<key>Track ID</key><integer>349</integer>
+			<key>Name</key><string>为了让生活继续（汪峰）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>48340736</integer>
+			<key>Total Time</key><integer>274040</integer>
+			<key>Date Modified</key><date>2017-11-11T03:55:38Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3BBD00E11055124A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%B8%BA%E4%BA%86%E8%AE%A9%E7%94%9F%E6%B4%BB%E7%BB%A7%E7%BB%AD%EF%BC%88%E6%B1%AA%E5%B3%B0%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>351</key>
+		<dict>
+			<key>Track ID</key><integer>351</integer>
+			<key>Name</key><string>忘不了的你</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>41231019</integer>
+			<key>Total Time</key><integer>233733</integer>
+			<key>Date Modified</key><date>2017-11-11T02:51:52Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>93B507BAD8BAA998</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%BF%98%E4%B8%8D%E4%BA%86%E7%9A%84%E4%BD%A0.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>353</key>
+		<dict>
+			<key>Track ID</key><integer>353</integer>
+			<key>Name</key><string>甜美生活(万岁万岁万万岁)</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>68890566</integer>
+			<key>Total Time</key><integer>390533</integer>
+			<key>Date Modified</key><date>2017-11-11T02:53:26Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>355CEADDE8BBBAF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%94%9C%E7%BE%8E%E7%94%9F%E6%B4%BB(%E4%B8%87%E5%B2%81%E4%B8%87%E5%B2%81%E4%B8%87%E4%B8%87%E5%B2%81).wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>355</key>
+		<dict>
+			<key>Track ID</key><integer>355</integer>
+			<key>Name</key><string>天问</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>38526211</integer>
+			<key>Total Time</key><integer>218400</integer>
+			<key>Date Modified</key><date>2017-11-11T02:51:50Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F62F3C9ACE7826A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%A4%A9%E9%97%AE.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>357</key>
+		<dict>
+			<key>Track ID</key><integer>357</integer>
+			<key>Name</key><string>天高地厚（信乐团）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>53322272</integer>
+			<key>Total Time</key><integer>302280</integer>
+			<key>Date Modified</key><date>2017-11-11T03:54:00Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8AF50C74FCE4ACC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%A4%A9%E9%AB%98%E5%9C%B0%E5%8E%9A%EF%BC%88%E4%BF%A1%E4%B9%90%E5%9B%A2%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>359</key>
+		<dict>
+			<key>Track ID</key><integer>359</integer>
+			<key>Name</key><string>十个救火的少年</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>52878129</integer>
+			<key>Total Time</key><integer>299760</integer>
+			<key>Date Modified</key><date>2017-11-11T02:53:56Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>572A3DCCA88AB3E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%8D%81%E4%B8%AA%E6%95%91%E7%81%AB%E7%9A%84%E5%B0%91%E5%B9%B4.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>361</key>
+		<dict>
+			<key>Track ID</key><integer>361</integer>
+			<key>Name</key><string>失魂</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>33629497</integer>
+			<key>Total Time</key><integer>190640</integer>
+			<key>Date Modified</key><date>2017-11-11T02:50:20Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>58045780A3FE9ACE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%A4%B1%E9%AD%82.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>363</key>
+		<dict>
+			<key>Track ID</key><integer>363</integer>
+			<key>Name</key><string>生来彷徨（汪峰）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>47693936</integer>
+			<key>Total Time</key><integer>270373</integer>
+			<key>Date Modified</key><date>2017-11-11T03:56:22Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8B0A746E4EA17C97</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%94%9F%E6%9D%A5%E5%BD%B7%E5%BE%A8%EF%BC%88%E6%B1%AA%E5%B3%B0%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>365</key>
+		<dict>
+			<key>Track ID</key><integer>365</integer>
+			<key>Name</key><string>社员都是向阳花</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>29781518</integer>
+			<key>Total Time</key><integer>168826</integer>
+			<key>Date Modified</key><date>2017-11-11T01:57:08Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DB901FCEFB1AA347</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%A4%BE%E5%91%98%E9%83%BD%E6%98%AF%E5%90%91%E9%98%B3%E8%8A%B1.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>367</key>
+		<dict>
+			<key>Track ID</key><integer>367</integer>
+			<key>Name</key><string>社会主义好</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>30592952</integer>
+			<key>Total Time</key><integer>173426</integer>
+			<key>Date Modified</key><date>2017-11-11T01:58:24Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>149A0B11C2F7F2E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>369</key>
+		<dict>
+			<key>Track ID</key><integer>369</integer>
+			<key>Name</key><string>伤逝</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>48263491</integer>
+			<key>Total Time</key><integer>273600</integer>
+			<key>Date Modified</key><date>2017-11-11T02:54:38Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1C8A5F1FE2EB89D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%BC%A4%E9%80%9D.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>371</key>
+		<dict>
+			<key>Track ID</key><integer>371</integer>
+			<key>Name</key><string>三万英尺（迪克牛仔）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>49671968</integer>
+			<key>Total Time</key><integer>281586</integer>
+			<key>Date Modified</key><date>2017-11-11T03:51:32Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>436761BF2AD35FEA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%B8%89%E4%B8%87%E8%8B%B1%E5%B0%BA%EF%BC%88%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>373</key>
+		<dict>
+			<key>Track ID</key><integer>373</integer>
+			<key>Name</key><string>全世界起舞</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>28509201</integer>
+			<key>Total Time</key><integer>161613</integer>
+			<key>Date Modified</key><date>2017-11-11T02:50:50Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C4F719BB06D59A79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%85%A8%E4%B8%96%E7%95%8C%E8%B5%B7%E8%88%9E.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>375</key>
+		<dict>
+			<key>Track ID</key><integer>375</integer>
+			<key>Name</key><string>全人类高歌</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>48750373</integer>
+			<key>Total Time</key><integer>276360</integer>
+			<key>Date Modified</key><date>2017-11-11T02:57:20Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BE2F9104F823FA22</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%85%A8%E4%BA%BA%E7%B1%BB%E9%AB%98%E6%AD%8C.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>377</key>
+		<dict>
+			<key>Track ID</key><integer>377</integer>
+			<key>Name</key><string>请问哪里才能买到晶体管收音机</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>68081191</integer>
+			<key>Total Time</key><integer>385946</integer>
+			<key>Date Modified</key><date>2017-11-11T01:56:50Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EE172CBC6EA44451</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%AF%B7%E9%97%AE%E5%93%AA%E9%87%8C%E6%89%8D%E8%83%BD%E4%B9%B0%E5%88%B0%E6%99%B6%E4%BD%93%E7%AE%A1%E6%94%B6%E9%9F%B3%E6%9C%BA.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>379</key>
+		<dict>
+			<key>Track ID</key><integer>379</integer>
+			<key>Name</key><string>怕你为自己流泪</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>51953668</integer>
+			<key>Total Time</key><integer>294520</integer>
+			<key>Date Modified</key><date>2017-11-11T02:02:04Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8E98A0FE37ABF744</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%80%95%E4%BD%A0%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%B5%81%E6%B3%AA.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>381</key>
+		<dict>
+			<key>Track ID</key><integer>381</integer>
+			<key>Name</key><string>噢，乖</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>61117071</integer>
+			<key>Total Time</key><integer>346466</integer>
+			<key>Date Modified</key><date>2017-11-11T02:00:36Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>763227FD67501ED2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%99%A2%EF%BC%8C%E4%B9%96.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>383</key>
+		<dict>
+			<key>Track ID</key><integer>383</integer>
+			<key>Name</key><string>选择</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>72488995</integer>
+			<key>Total Time</key><integer>410933</integer>
+			<key>Date Modified</key><date>2017-11-11T01:58:44Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2293270B391BEAB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%80%89%E6%8B%A9.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>385</key>
+		<dict>
+			<key>Track ID</key><integer>385</integer>
+			<key>Name</key><string>随心所欲（罗琦）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>48138464</integer>
+			<key>Total Time</key><integer>272893</integer>
+			<key>Date Modified</key><date>2017-11-11T03:56:46Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EB513ACB11B48188</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%9A%8F%E5%BF%83%E6%89%80%E6%AC%B2%EF%BC%88%E7%BD%97%E7%90%A6%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>387</key>
+		<dict>
+			<key>Track ID</key><integer>387</integer>
+			<key>Name</key><string>怒放的生命（汪峰）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>47940896</integer>
+			<key>Total Time</key><integer>271773</integer>
+			<key>Date Modified</key><date>2017-11-11T03:54:40Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DD2749DB8D47CBE3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%80%92%E6%94%BE%E7%9A%84%E7%94%9F%E5%91%BD%EF%BC%88%E6%B1%AA%E5%B3%B0%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>389</key>
+		<dict>
+			<key>Track ID</key><integer>389</integer>
+			<key>Name</key><string>无聊时候</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>53207432</integer>
+			<key>Total Time</key><integer>301626</integer>
+			<key>Date Modified</key><date>2017-11-11T02:55:00Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0E19EA8ADCED282C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%97%A0%E8%81%8A%E6%97%B6%E5%80%99.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>391</key>
+		<dict>
+			<key>Track ID</key><integer>391</integer>
+			<key>Name</key><string>娘子军连歌</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>33003755</integer>
+			<key>Total Time</key><integer>187093</integer>
+			<key>Date Modified</key><date>2017-11-11T01:57:18Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8CFC4C70CAAAF474</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%A8%98%E5%AD%90%E5%86%9B%E8%BF%9E%E6%AD%8C.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>393</key>
+		<dict>
+			<key>Track ID</key><integer>393</integer>
+			<key>Name</key><string>再见!我的爱人 - 臧天朔</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>55860384</integer>
+			<key>Total Time</key><integer>316666</integer>
+			<key>Date Modified</key><date>2017-11-11T02:02:46Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8103773612877C31</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%86%8D%E8%A7%81!%E6%88%91%E7%9A%84%E7%88%B1%E4%BA%BA%20-%20%E8%87%A7%E5%A4%A9%E6%9C%94.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>395</key>
+		<dict>
+			<key>Track ID</key><integer>395</integer>
+			<key>Name</key><string>你是我的雷蒙斯</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>22743940</integer>
+			<key>Total Time</key><integer>128933</integer>
+			<key>Date Modified</key><date>2017-11-11T01:27:14Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E10F711CBAF99E70</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E9%9B%B7%E8%92%99%E6%96%AF.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>397</key>
+		<dict>
+			<key>Track ID</key><integer>397</integer>
+			<key>Name</key><string>你還愛我嗎</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>47381530</integer>
+			<key>Total Time</key><integer>268600</integer>
+			<key>Date Modified</key><date>2017-11-11T02:46:42Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FEDCB1871ABBC14D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%BD%A0%E9%82%84%E6%84%9B%E6%88%91%E5%97%8E.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>399</key>
+		<dict>
+			<key>Track ID</key><integer>399</integer>
+			<key>Name</key><string>新长征路上的摇滚（崔健）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>49657856</integer>
+			<key>Total Time</key><integer>281506</integer>
+			<key>Date Modified</key><date>2017-11-11T03:58:16Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0F5F8C6F83EE14DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%96%B0%E9%95%BF%E5%BE%81%E8%B7%AF%E4%B8%8A%E7%9A%84%E6%91%87%E6%BB%9A%EF%BC%88%E5%B4%94%E5%81%A5%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>401</key>
+		<dict>
+			<key>Track ID</key><integer>401</integer>
+			<key>Name</key><string>花衣裳</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>57172898</integer>
+			<key>Total Time</key><integer>324106</integer>
+			<key>Date Modified</key><date>2017-11-11T01:59:48Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DE73E6C8D7FCA0C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%8A%B1%E8%A1%A3%E8%A3%B3.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>403</key>
+		<dict>
+			<key>Track ID</key><integer>403</integer>
+			<key>Name</key><string>你还爱我吗</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>35073487</integer>
+			<key>Total Time</key><integer>198826</integer>
+			<key>Date Modified</key><date>2017-11-11T02:54:38Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6B70914B81561C53</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%BD%A0%E8%BF%98%E7%88%B1%E6%88%91%E5%90%97.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>405</key>
+		<dict>
+			<key>Track ID</key><integer>405</integer>
+			<key>Name</key><string>明天你依旧在我身边</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>54030343</integer>
+			<key>Total Time</key><integer>306293</integer>
+			<key>Date Modified</key><date>2017-11-11T01:57:12Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EB2E7815BBA5450C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%98%8E%E5%A4%A9%E4%BD%A0%E4%BE%9D%E6%97%A7%E5%9C%A8%E6%88%91%E8%BA%AB%E8%BE%B9.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>407</key>
+		<dict>
+			<key>Track ID</key><integer>407</integer>
+			<key>Name</key><string>迷惘夜車</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>42677531</integer>
+			<key>Total Time</key><integer>241933</integer>
+			<key>Date Modified</key><date>2017-11-11T02:48:04Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3B4F7772BD37F835</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%BF%B7%E6%83%98%E5%A4%9C%E8%BB%8A.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>409</key>
+		<dict>
+			<key>Track ID</key><integer>409</integer>
+			<key>Name</key><string>最美妙的旅行</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>57758263</integer>
+			<key>Total Time</key><integer>327426</integer>
+			<key>Date Modified</key><date>2017-11-11T01:55:50Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FD4DAE5454056F4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%9C%80%E7%BE%8E%E5%A6%99%E7%9A%84%E6%97%85%E8%A1%8C.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>411</key>
+		<dict>
+			<key>Track ID</key><integer>411</integer>
+			<key>Name</key><string>生命</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>95260903</integer>
+			<key>Total Time</key><integer>540026</integer>
+			<key>Date Modified</key><date>2017-11-11T01:55:06Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E48C40E539102AEE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%94%9F%E5%91%BD.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>413</key>
+		<dict>
+			<key>Track ID</key><integer>413</integer>
+			<key>Name</key><string>末世情</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>51568053</integer>
+			<key>Total Time</key><integer>292333</integer>
+			<key>Date Modified</key><date>2017-11-11T02:54:54Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5D9A4577A05F64A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%9C%AB%E4%B8%96%E6%83%85.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>415</key>
+		<dict>
+			<key>Track ID</key><integer>415</integer>
+			<key>Name</key><string>Take Care</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>63036298</integer>
+			<key>Total Time</key><integer>357346</integer>
+			<key>Date Modified</key><date>2017-11-11T02:01:12Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>AB18588FBEC79B82</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/Take%20Care.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>417</key>
+		<dict>
+			<key>Track ID</key><integer>417</integer>
+			<key>Name</key><string>每日一禁果</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>44001678</integer>
+			<key>Total Time</key><integer>249440</integer>
+			<key>Date Modified</key><date>2017-11-11T02:55:08Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>71C7CFB63258A6FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%AF%8F%E6%97%A5%E4%B8%80%E7%A6%81%E6%9E%9C.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>419</key>
+		<dict>
+			<key>Track ID</key><integer>419</integer>
+			<key>Name</key><string>姑娘，漂亮</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>59310741</integer>
+			<key>Total Time</key><integer>336226</integer>
+			<key>Date Modified</key><date>2017-11-11T02:00:46Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659765288</integer>
+			<key>Play Date UTC</key><date>2019-12-21T01:28:08Z</date>
+			<key>Persistent ID</key><string>3B8E0E9928F9A55B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%A7%91%E5%A8%98%EF%BC%8C%E6%BC%82%E4%BA%AE.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>421</key>
+		<dict>
+			<key>Track ID</key><integer>421</integer>
+			<key>Name</key><string>慢歌</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>47169765</integer>
+			<key>Total Time</key><integer>267400</integer>
+			<key>Date Modified</key><date>2017-11-11T02:43:36Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0C9926341E93B975</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%85%A2%E6%AD%8C.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>423</key>
+		<dict>
+			<key>Track ID</key><integer>423</integer>
+			<key>Name</key><string>嘿!你</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>24131620</integer>
+			<key>Total Time</key><integer>136800</integer>
+			<key>Date Modified</key><date>2017-11-11T01:27:36Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6E6B99A8EA917446</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%98%BF!%E4%BD%A0.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>425</key>
+		<dict>
+			<key>Track ID</key><integer>425</integer>
+			<key>Name</key><string>罗曼史</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>65654156</integer>
+			<key>Total Time</key><integer>372186</integer>
+			<key>Date Modified</key><date>2017-11-11T02:44:50Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>A32959842F430FDE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%BD%97%E6%9B%BC%E5%8F%B2.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>427</key>
+		<dict>
+			<key>Track ID</key><integer>427</integer>
+			<key>Name</key><string>留住我吧</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>51015347</integer>
+			<key>Total Time</key><integer>289200</integer>
+			<key>Date Modified</key><date>2017-11-11T02:55:56Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1AAADFE92202E438</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%95%99%E4%BD%8F%E6%88%91%E5%90%A7.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>429</key>
+		<dict>
+			<key>Track ID</key><integer>429</integer>
+			<key>Name</key><string>留下灯油光</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>52784072</integer>
+			<key>Total Time</key><integer>299226</integer>
+			<key>Date Modified</key><date>2017-11-11T01:57:06Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F5821FCECDA627FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%95%99%E4%B8%8B%E7%81%AF%E6%B2%B9%E5%85%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>431</key>
+		<dict>
+			<key>Track ID</key><integer>431</integer>
+			<key>Name</key><string>溜冰滾族(88Remix)</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>42853954</integer>
+			<key>Total Time</key><integer>242933</integer>
+			<key>Date Modified</key><date>2017-11-11T02:48:28Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>E5609530424AA526</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%BA%9C%E5%86%B0%E6%BB%BE%E6%97%8F(88Remix).wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>433</key>
+		<dict>
+			<key>Track ID</key><integer>433</integer>
+			<key>Name</key><string>马路天使</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>63469177</integer>
+			<key>Total Time</key><integer>359800</integer>
+			<key>Date Modified</key><date>2017-11-11T02:53:46Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3655546584</integer>
+			<key>Play Date UTC</key><date>2019-11-02T05:36:24Z</date>
+			<key>Persistent ID</key><string>6CE49F42E2E17752</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%A9%AC%E8%B7%AF%E5%A4%A9%E4%BD%BF.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>435</key>
+		<dict>
+			<key>Track ID</key><integer>435</integer>
+			<key>Name</key><string>哪里是你的拥抱</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>73337928</integer>
+			<key>Total Time</key><integer>415746</integer>
+			<key>Date Modified</key><date>2017-11-11T01:46:04Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>7415C784D8B6D9B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%93%AA%E9%87%8C%E6%98%AF%E4%BD%A0%E7%9A%84%E6%8B%A5%E6%8A%B1.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>437</key>
+		<dict>
+			<key>Track ID</key><integer>437</integer>
+			<key>Name</key><string>爱情催泪弹</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>15746740</integer>
+			<key>Total Time</key><integer>89266</integer>
+			<key>Date Modified</key><date>2017-11-11T01:27:24Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3655545923</integer>
+			<key>Play Date UTC</key><date>2019-11-02T05:25:23Z</date>
+			<key>Persistent ID</key><string>BFF3FA1C4BA14A69</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%88%B1%E6%83%85%E5%82%AC%E6%B3%AA%E5%BC%B9.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>439</key>
+		<dict>
+			<key>Track ID</key><integer>439</integer>
+			<key>Name</key><string>溜冰滚族</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>40889977</integer>
+			<key>Total Time</key><integer>231800</integer>
+			<key>Date Modified</key><date>2017-11-11T02:55:08Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>7622B21D3D67DBD9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%BA%9C%E5%86%B0%E6%BB%9A%E6%97%8F.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>441</key>
+		<dict>
+			<key>Track ID</key><integer>441</integer>
+			<key>Name</key><string>理想与和平</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>35275784</integer>
+			<key>Total Time</key><integer>199973</integer>
+			<key>Date Modified</key><date>2017-11-11T01:59:42Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EB1BACA383B88D38</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%90%86%E6%83%B3%E4%B8%8E%E5%92%8C%E5%B9%B3.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>443</key>
+		<dict>
+			<key>Track ID</key><integer>443</integer>
+			<key>Name</key><string>每一天</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>31458103</integer>
+			<key>Total Time</key><integer>178333</integer>
+			<key>Date Modified</key><date>2017-11-11T01:28:22Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>548D1AE861A2FD05</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%AF%8F%E4%B8%80%E5%A4%A9.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>445</key>
+		<dict>
+			<key>Track ID</key><integer>445</integer>
+			<key>Name</key><string>理解（病蛹乐队）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>65072864</integer>
+			<key>Total Time</key><integer>368893</integer>
+			<key>Date Modified</key><date>2017-11-11T03:53:14Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>978BF6AA2CDDB39D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%90%86%E8%A7%A3%EF%BC%88%E7%97%85%E8%9B%B9%E4%B9%90%E9%98%9F%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>447</key>
+		<dict>
+			<key>Track ID</key><integer>447</integer>
+			<key>Name</key><string>离歌（信乐团）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>47185904</integer>
+			<key>Total Time</key><integer>267493</integer>
+			<key>Date Modified</key><date>2017-11-11T03:56:00Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2A3B8E5B36B90B10</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%A6%BB%E6%AD%8C%EF%BC%88%E4%BF%A1%E4%B9%90%E5%9B%A2%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>449</key>
+		<dict>
+			<key>Track ID</key><integer>449</integer>
+			<key>Name</key><string>你是无可替代</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>76179127</integer>
+			<key>Total Time</key><integer>431853</integer>
+			<key>Date Modified</key><date>2017-11-11T01:55:04Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DD311F87D0C62487</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%BD%A0%E6%98%AF%E6%97%A0%E5%8F%AF%E6%9B%BF%E4%BB%A3.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>451</key>
+		<dict>
+			<key>Track ID</key><integer>451</integer>
+			<key>Name</key><string>蓝战士</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>52407748</integer>
+			<key>Total Time</key><integer>297093</integer>
+			<key>Date Modified</key><date>2017-11-11T02:57:58Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2E3CF1379CDF66FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%93%9D%E6%88%98%E5%A3%AB.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>453</key>
+		<dict>
+			<key>Track ID</key><integer>453</integer>
+			<key>Name</key><string>今夜星光爛燦(舞照跳)</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>37051564</integer>
+			<key>Total Time</key><integer>210040</integer>
+			<key>Date Modified</key><date>2017-11-11T02:47:34Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>A0AE30F272588763</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%BB%8A%E5%A4%9C%E6%98%9F%E5%85%89%E7%88%9B%E7%87%A6(%E8%88%9E%E7%85%A7%E8%B7%B3).wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>455</key>
+		<dict>
+			<key>Track ID</key><integer>455</integer>
+			<key>Name</key><string>来来去去</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>17440183</integer>
+			<key>Total Time</key><integer>98866</integer>
+			<key>Date Modified</key><date>2017-11-11T01:26:44Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>82FEBA58578C04C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%9D%A5%E6%9D%A5%E5%8E%BB%E5%8E%BB.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>457</key>
+		<dict>
+			<key>Track ID</key><integer>457</integer>
+			<key>Name</key><string>梦回唐朝（唐朝乐队）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>74375024</integer>
+			<key>Total Time</key><integer>421626</integer>
+			<key>Date Modified</key><date>2017-11-11T03:57:30Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>66F06828D3729E31</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%A2%A6%E5%9B%9E%E5%94%90%E6%9C%9D%EF%BC%88%E5%94%90%E6%9C%9D%E4%B9%90%E9%98%9F%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>459</key>
+		<dict>
+			<key>Track ID</key><integer>459</integer>
+			<key>Name</key><string>I'm ok</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>24554980</integer>
+			<key>Total Time</key><integer>139200</integer>
+			<key>Date Modified</key><date>2017-11-11T01:28:52Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>171FE2C19A39CB1F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/I'm%20ok.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>461</key>
+		<dict>
+			<key>Track ID</key><integer>461</integer>
+			<key>Name</key><string>私奔（郑钧）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>56422208</integer>
+			<key>Total Time</key><integer>319853</integer>
+			<key>Date Modified</key><date>2017-11-11T03:54:58Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3211550E513415D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%A7%81%E5%A5%94%EF%BC%88%E9%83%91%E9%92%A7%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>463</key>
+		<dict>
+			<key>Track ID</key><integer>463</integer>
+			<key>Name</key><string>青春残酷物语</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>61481743</integer>
+			<key>Total Time</key><integer>348533</integer>
+			<key>Date Modified</key><date>2017-11-11T02:53:00Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B4B7229E63EAF1B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%9D%92%E6%98%A5%E6%AE%8B%E9%85%B7%E7%89%A9%E8%AF%AD.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>465</key>
+		<dict>
+			<key>Track ID</key><integer>465</integer>
+			<key>Name</key><string>爱情</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>67199318</integer>
+			<key>Total Time</key><integer>380946</integer>
+			<key>Date Modified</key><date>2017-11-11T02:03:10Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3655545513</integer>
+			<key>Play Date UTC</key><date>2019-11-02T05:18:33Z</date>
+			<key>Persistent ID</key><string>D262279D47ED929E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%88%B1%E6%83%85.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>467</key>
+		<dict>
+			<key>Track ID</key><integer>467</integer>
+			<key>Name</key><string>孔雀与飞鹰</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>33968193</integer>
+			<key>Total Time</key><integer>192560</integer>
+			<key>Date Modified</key><date>2017-11-11T02:50:44Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CE891C5A113BF8E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%AD%94%E9%9B%80%E4%B8%8E%E9%A3%9E%E9%B9%B0.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>469</key>
+		<dict>
+			<key>Track ID</key><integer>469</integer>
+			<key>Name</key><string>每一句说话</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>46104373</integer>
+			<key>Total Time</key><integer>261360</integer>
+			<key>Date Modified</key><date>2017-11-11T02:55:56Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C2BA9866EEDA262C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%AF%8F%E4%B8%80%E5%8F%A5%E8%AF%B4%E8%AF%9D.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>471</key>
+		<dict>
+			<key>Track ID</key><integer>471</integer>
+			<key>Name</key><string>我被自己欺骗</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>51445620</integer>
+			<key>Total Time</key><integer>291640</integer>
+			<key>Date Modified</key><date>2017-11-11T02:00:42Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>529D49E1982C50CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%88%91%E8%A2%AB%E8%87%AA%E5%B7%B1%E6%AC%BA%E9%AA%97.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>473</key>
+		<dict>
+			<key>Track ID</key><integer>473</integer>
+			<key>Name</key><string>失去</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>69777192</integer>
+			<key>Total Time</key><integer>395560</integer>
+			<key>Date Modified</key><date>2017-11-11T02:44:00Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4C21A3943D49615A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%A4%B1%E5%8E%BB.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>475</key>
+		<dict>
+			<key>Track ID</key><integer>475</integer>
+			<key>Name</key><string>酒醉的探戈 - 轮回乐队</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>55683980</integer>
+			<key>Total Time</key><integer>315666</integer>
+			<key>Date Modified</key><date>2017-11-11T02:02:44Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D135352A39D8D8DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%85%92%E9%86%89%E7%9A%84%E6%8E%A2%E6%88%88%20-%20%E8%BD%AE%E5%9B%9E%E4%B9%90%E9%98%9F.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>477</key>
+		<dict>
+			<key>Track ID</key><integer>477</integer>
+			<key>Name</key><string>禁色</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>43775906</integer>
+			<key>Total Time</key><integer>248160</integer>
+			<key>Date Modified</key><date>2017-11-11T02:47:00Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EF2E6A43B0C50857</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%A6%81%E8%89%B2.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>479</key>
+		<dict>
+			<key>Track ID</key><integer>479</integer>
+			<key>Name</key><string>下雨天</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>52200772</integer>
+			<key>Total Time</key><integer>295920</integer>
+			<key>Date Modified</key><date>2017-11-11T02:56:20Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3B59F7865DBD97C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%B8%8B%E9%9B%A8%E5%A4%A9.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>481</key>
+		<dict>
+			<key>Track ID</key><integer>481</integer>
+			<key>Name</key><string>蚂蚁 蚂蚁</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>56519017</integer>
+			<key>Total Time</key><integer>320400</integer>
+			<key>Date Modified</key><date>2017-11-11T02:00:50Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>449539538D1020FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%9A%82%E8%9A%81%20%E8%9A%82%E8%9A%81.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>483</key>
+		<dict>
+			<key>Track ID</key><integer>483</integer>
+			<key>Name</key><string>CRYSTAL</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>49249000</integer>
+			<key>Total Time</key><integer>279186</integer>
+			<key>Date Modified</key><date>2017-11-11T02:58:42Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FB3A1B5258ADB194</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/CRYSTAL.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>485</key>
+		<dict>
+			<key>Track ID</key><integer>485</integer>
+			<key>Name</key><string>冷暖自知（张楚）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>43081664</integer>
+			<key>Total Time</key><integer>244226</integer>
+			<key>Date Modified</key><date>2017-11-11T03:52:24Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D302553A9EFBB530</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%86%B7%E6%9A%96%E8%87%AA%E7%9F%A5%EF%BC%88%E5%BC%A0%E6%A5%9A%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>487</key>
+		<dict>
+			<key>Track ID</key><integer>487</integer>
+			<key>Name</key><string>NO</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>25966485</integer>
+			<key>Total Time</key><integer>147200</integer>
+			<key>Date Modified</key><date>2017-11-11T02:43:48Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>50A6EF414D19118F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/NO.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>489</key>
+		<dict>
+			<key>Track ID</key><integer>489</integer>
+			<key>Name</key><string>紧箍咒 (国语)</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>43453819</integer>
+			<key>Total Time</key><integer>246333</integer>
+			<key>Date Modified</key><date>2017-11-11T02:52:36Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>101D4F0CA197C8EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%B4%A7%E7%AE%8D%E5%92%92%20(%E5%9B%BD%E8%AF%AD).wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>491</key>
+		<dict>
+			<key>Track ID</key><integer>491</integer>
+			<key>Name</key><string>Stay Awhile (英语)</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>34292806</integer>
+			<key>Total Time</key><integer>194400</integer>
+			<key>Date Modified</key><date>2017-11-11T02:51:12Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6D4A5B7BCEA3B1CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/Stay%20Awhile%20(%E8%8B%B1%E8%AF%AD).wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>493</key>
+		<dict>
+			<key>Track ID</key><integer>493</integer>
+			<key>Name</key><string>我们走在大路上</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>35844977</integer>
+			<key>Total Time</key><integer>203200</integer>
+			<key>Date Modified</key><date>2017-11-11T01:56:32Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>2CFCD1784D0D6F67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%88%91%E4%BB%AC%E8%B5%B0%E5%9C%A8%E5%A4%A7%E8%B7%AF%E4%B8%8A.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>495</key>
+		<dict>
+			<key>Track ID</key><integer>495</integer>
+			<key>Name</key><string>今天應該很高興</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>57408112</integer>
+			<key>Total Time</key><integer>325440</integer>
+			<key>Date Modified</key><date>2017-11-11T02:47:32Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>384D088EE12219A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%BB%8A%E5%A4%A9%E6%87%89%E8%A9%B2%E5%BE%88%E9%AB%98%E8%88%88.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>497</key>
+		<dict>
+			<key>Track ID</key><integer>497</integer>
+			<key>Name</key><string>奔跑（黑豹乐队）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>40268672</integer>
+			<key>Total Time</key><integer>228280</integer>
+			<key>Date Modified</key><date>2017-11-11T03:55:16Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654355358</integer>
+			<key>Play Date UTC</key><date>2019-10-19T10:42:38Z</date>
+			<key>Persistent ID</key><string>3B108DB247810230</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%A5%94%E8%B7%91%EF%BC%88%E9%BB%91%E8%B1%B9%E4%B9%90%E9%98%9F%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>499</key>
+		<dict>
+			<key>Track ID</key><integer>499</integer>
+			<key>Name</key><string>顶天立地</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>48249395</integer>
+			<key>Total Time</key><integer>273520</integer>
+			<key>Date Modified</key><date>2017-11-11T02:58:42Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659760810</integer>
+			<key>Play Date UTC</key><date>2019-12-21T00:13:30Z</date>
+			<key>Persistent ID</key><string>6B86DDACBBCFE157</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%A1%B6%E5%A4%A9%E7%AB%8B%E5%9C%B0.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>501</key>
+		<dict>
+			<key>Track ID</key><integer>501</integer>
+			<key>Name</key><string>和那些人一样</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>90813271</integer>
+			<key>Total Time</key><integer>514813</integer>
+			<key>Date Modified</key><date>2017-11-11T01:56:14Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>BCEDE858F339B797</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%92%8C%E9%82%A3%E4%BA%9B%E4%BA%BA%E4%B8%80%E6%A0%B7.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>503</key>
+		<dict>
+			<key>Track ID</key><integer>503</integer>
+			<key>Name</key><string>今天应该很高兴</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>67462881</integer>
+			<key>Total Time</key><integer>382440</integer>
+			<key>Date Modified</key><date>2017-11-11T02:54:24Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8DBC7198CA74FA57</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%BB%8A%E5%A4%A9%E5%BA%94%E8%AF%A5%E5%BE%88%E9%AB%98%E5%85%B4.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>505</key>
+		<dict>
+			<key>Track ID</key><integer>505</integer>
+			<key>Name</key><string>结婚</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>57654778</integer>
+			<key>Total Time</key><integer>326840</integer>
+			<key>Date Modified</key><date>2017-11-11T01:46:56Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>79E0F57475C09939</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%BB%93%E5%A9%9A.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>507</key>
+		<dict>
+			<key>Track ID</key><integer>507</integer>
+			<key>Name</key><string>回来（罗琦）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>79255424</integer>
+			<key>Total Time</key><integer>449293</integer>
+			<key>Date Modified</key><date>2017-11-11T03:58:40Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1C35B381EE8F008A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%9B%9E%E6%9D%A5%EF%BC%88%E7%BD%97%E7%90%A6%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>509</key>
+		<dict>
+			<key>Track ID</key><integer>509</integer>
+			<key>Name</key><string>悲伤的梦</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>57095155</integer>
+			<key>Total Time</key><integer>323666</integer>
+			<key>Date Modified</key><date>2017-11-11T01:59:54Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654355125</integer>
+			<key>Play Date UTC</key><date>2019-10-19T10:38:45Z</date>
+			<key>Persistent ID</key><string>9CE67B4159A01355</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%82%B2%E4%BC%A4%E7%9A%84%E6%A2%A6.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>511</key>
+		<dict>
+			<key>Track ID</key><integer>511</integer>
+			<key>Name</key><string>狂风暴雨 (国语)</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>33486045</integer>
+			<key>Total Time</key><integer>189826</integer>
+			<key>Date Modified</key><date>2017-11-11T02:51:56Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4E19E0A3B2757D74</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%8B%82%E9%A3%8E%E6%9A%B4%E9%9B%A8%20(%E5%9B%BD%E8%AF%AD).wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>513</key>
+		<dict>
+			<key>Track ID</key><integer>513</integer>
+			<key>Name</key><string>回到拉萨（郑钧）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>57245408</integer>
+			<key>Total Time</key><integer>324520</integer>
+			<key>Date Modified</key><date>2017-11-11T03:59:20Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B67F4348193DD1A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%9B%9E%E5%88%B0%E6%8B%89%E8%90%A8%EF%BC%88%E9%83%91%E9%92%A7%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>515</key>
+		<dict>
+			<key>Track ID</key><integer>515</integer>
+			<key>Name</key><string>存在（汪峰）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>50212928</integer>
+			<key>Total Time</key><integer>284653</integer>
+			<key>Date Modified</key><date>2017-11-11T03:54:06Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654358413</integer>
+			<key>Play Date UTC</key><date>2019-10-19T11:33:33Z</date>
+			<key>Persistent ID</key><string>95F00A8649D5FB52</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%AD%98%E5%9C%A8%EF%BC%88%E6%B1%AA%E5%B3%B0%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>517</key>
+		<dict>
+			<key>Track ID</key><integer>517</integer>
+			<key>Name</key><string>国际歌（唐朝乐队）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>47042432</integer>
+			<key>Total Time</key><integer>266680</integer>
+			<key>Date Modified</key><date>2017-11-11T03:56:00Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-21T01:41:50Z</date>
+			<key>Persistent ID</key><string>55FCB2524D238284</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%9B%BD%E9%99%85%E6%AD%8C%EF%BC%88%E5%94%90%E6%9C%9D%E4%B9%90%E9%98%9F%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>519</key>
+		<dict>
+			<key>Track ID</key><integer>519</integer>
+			<key>Name</key><string>天涯（爱乐团）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>45271376</integer>
+			<key>Total Time</key><integer>256640</integer>
+			<key>Date Modified</key><date>2017-11-11T03:57:30Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B9D0FFBC05DB0204</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%A4%A9%E6%B6%AF%EF%BC%88%E7%88%B1%E4%B9%90%E5%9B%A2%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>521</key>
+		<dict>
+			<key>Track ID</key><integer>521</integer>
+			<key>Name</key><string>爱无罪（迪克牛仔）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>48194912</integer>
+			<key>Total Time</key><integer>273213</integer>
+			<key>Date Modified</key><date>2017-11-11T03:58:14Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654354009</integer>
+			<key>Play Date UTC</key><date>2019-10-19T10:20:09Z</date>
+			<key>Persistent ID</key><string>5FD61479436714FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%88%B1%E6%97%A0%E7%BD%AA%EF%BC%88%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>523</key>
+		<dict>
+			<key>Track ID</key><integer>523</integer>
+			<key>Name</key><string>我们的时代</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>28600420</integer>
+			<key>Total Time</key><integer>162133</integer>
+			<key>Date Modified</key><date>2017-11-11T01:28:34Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5770C7761C5E6DD0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%B6%E4%BB%A3.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>525</key>
+		<dict>
+			<key>Track ID</key><integer>525</integer>
+			<key>Name</key><string>非洲梦</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>55625154</integer>
+			<key>Total Time</key><integer>315333</integer>
+			<key>Date Modified</key><date>2017-11-11T01:59:22Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659763933</integer>
+			<key>Play Date UTC</key><date>2019-12-21T01:05:33Z</date>
+			<key>Persistent ID</key><string>06215752C5CE7D4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%9D%9E%E6%B4%B2%E6%A2%A6.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>527</key>
+		<dict>
+			<key>Track ID</key><integer>527</integer>
+			<key>Name</key><string>船歌 - 郑钧</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>44598990</integer>
+			<key>Total Time</key><integer>252826</integer>
+			<key>Date Modified</key><date>2017-11-11T02:03:52Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654357400</integer>
+			<key>Play Date UTC</key><date>2019-10-19T11:16:40Z</date>
+			<key>Persistent ID</key><string>D5E34AB42855AC9A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%88%B9%E6%AD%8C%20-%20%E9%83%91%E9%92%A7.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>529</key>
+		<dict>
+			<key>Track ID</key><integer>529</integer>
+			<key>Name</key><string>高级动物</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>38302675</integer>
+			<key>Total Time</key><integer>217133</integer>
+			<key>Date Modified</key><date>2017-11-11T01:58:56Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659764952</integer>
+			<key>Play Date UTC</key><date>2019-12-21T01:22:32Z</date>
+			<key>Persistent ID</key><string>4A0D8D4B85F129DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%AB%98%E7%BA%A7%E5%8A%A8%E7%89%A9.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>531</key>
+		<dict>
+			<key>Track ID</key><integer>531</integer>
+			<key>Name</key><string>一万次悲伤</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>45071586</integer>
+			<key>Total Time</key><integer>255506</integer>
+			<key>Date Modified</key><date>2017-11-11T01:45:22Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FC247285C8808209</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%B8%80%E4%B8%87%E6%AC%A1%E6%82%B2%E4%BC%A4.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>533</key>
+		<dict>
+			<key>Track ID</key><integer>533</integer>
+			<key>Name</key><string>石頭記</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>49639444</integer>
+			<key>Total Time</key><integer>281400</integer>
+			<key>Date Modified</key><date>2017-11-11T02:46:24Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D7185F1F68795276</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%9F%B3%E9%A0%AD%E8%A8%98.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>535</key>
+		<dict>
+			<key>Track ID</key><integer>535</integer>
+			<key>Name</key><string>花房姑娘（崔健）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>50337584</integer>
+			<key>Total Time</key><integer>285360</integer>
+			<key>Date Modified</key><date>2017-11-11T03:54:20Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F3A3FAD1BC046EAF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%8A%B1%E6%88%BF%E5%A7%91%E5%A8%98%EF%BC%88%E5%B4%94%E5%81%A5%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>537</key>
+		<dict>
+			<key>Track ID</key><integer>537</integer>
+			<key>Name</key><string>冷血动物（谢天笑）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>56450432</integer>
+			<key>Total Time</key><integer>320013</integer>
+			<key>Date Modified</key><date>2017-11-11T03:55:02Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B633444DAF523740</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%86%B7%E8%A1%80%E5%8A%A8%E7%89%A9%EF%BC%88%E8%B0%A2%E5%A4%A9%E7%AC%91%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>539</key>
+		<dict>
+			<key>Track ID</key><integer>539</integer>
+			<key>Name</key><string>抚琴小夜曲</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>84594583</integer>
+			<key>Total Time</key><integer>479560</integer>
+			<key>Date Modified</key><date>2017-11-11T01:58:28Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659764735</integer>
+			<key>Play Date UTC</key><date>2019-12-21T01:18:55Z</date>
+			<key>Persistent ID</key><string>4AD70DA71681CF99</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%8A%9A%E7%90%B4%E5%B0%8F%E5%A4%9C%E6%9B%B2.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>541</key>
+		<dict>
+			<key>Track ID</key><integer>541</integer>
+			<key>Name</key><string>岂有此理</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>38900216</integer>
+			<key>Total Time</key><integer>220520</integer>
+			<key>Date Modified</key><date>2017-11-11T02:55:28Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D6B21DA02BDA6516</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%B2%82%E6%9C%89%E6%AD%A4%E7%90%86.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>543</key>
+		<dict>
+			<key>Track ID</key><integer>543</integer>
+			<key>Name</key><string>独上西楼 - 唐朝乐队</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>47833002</integer>
+			<key>Total Time</key><integer>271160</integer>
+			<key>Date Modified</key><date>2017-11-11T02:03:36Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659760942</integer>
+			<key>Play Date UTC</key><date>2019-12-21T00:15:42Z</date>
+			<key>Persistent ID</key><string>F8E452BFC8048F7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%8B%AC%E4%B8%8A%E8%A5%BF%E6%A5%BC%20-%20%E5%94%90%E6%9C%9D%E4%B9%90%E9%98%9F.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>545</key>
+		<dict>
+			<key>Track ID</key><integer>545</integer>
+			<key>Name</key><string>飞翔鸟</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>102606357</integer>
+			<key>Total Time</key><integer>581666</integer>
+			<key>Date Modified</key><date>2017-11-11T02:00:12Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659763618</integer>
+			<key>Play Date UTC</key><date>2019-12-21T01:00:18Z</date>
+			<key>Persistent ID</key><string>E840F193657CA0A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%A3%9E%E7%BF%94%E9%B8%9F.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>547</key>
+		<dict>
+			<key>Track ID</key><integer>547</integer>
+			<key>Name</key><string>甜蜜蜜 - 郑钧</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>43601744</integer>
+			<key>Total Time</key><integer>247173</integer>
+			<key>Date Modified</key><date>2017-11-11T02:01:40Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6132B53D06A10BB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%94%9C%E8%9C%9C%E8%9C%9C%20-%20%E9%83%91%E9%92%A7.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>549</key>
+		<dict>
+			<key>Track ID</key><integer>549</integer>
+			<key>Name</key><string>人生酒库</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>51372872</integer>
+			<key>Total Time</key><integer>291226</integer>
+			<key>Date Modified</key><date>2017-11-11T02:56:48Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>ED8225987CE430B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%BA%BA%E7%94%9F%E9%85%92%E5%BA%93.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>551</key>
+		<dict>
+			<key>Track ID</key><integer>551</integer>
+			<key>Name</key><string>把轻松交给我</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>46511132</integer>
+			<key>Total Time</key><integer>263666</integer>
+			<key>Date Modified</key><date>2017-11-11T02:02:34Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654354542</integer>
+			<key>Play Date UTC</key><date>2019-10-19T10:29:02Z</date>
+			<key>Persistent ID</key><string>C9D916E7E3F33B40</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%8A%8A%E8%BD%BB%E6%9D%BE%E4%BA%A4%E7%BB%99%E6%88%91.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>553</key>
+		<dict>
+			<key>Track ID</key><integer>553</integer>
+			<key>Name</key><string>飞得更高（汪峰）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>70444832</integer>
+			<key>Total Time</key><integer>399346</integer>
+			<key>Date Modified</key><date>2017-11-11T03:52:08Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659761646</integer>
+			<key>Play Date UTC</key><date>2019-12-21T00:27:26Z</date>
+			<key>Persistent ID</key><string>9F0CFEFF68B4FDD6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%A3%9E%E5%BE%97%E6%9B%B4%E9%AB%98%EF%BC%88%E6%B1%AA%E5%B3%B0%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>555</key>
+		<dict>
+			<key>Track ID</key><integer>555</integer>
+			<key>Name</key><string>Chemical Bus</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>44119048</integer>
+			<key>Total Time</key><integer>250106</integer>
+			<key>Date Modified</key><date>2017-11-11T01:47:34Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B4B1100C0CAE9066</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/Chemical%20Bus.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>557</key>
+		<dict>
+			<key>Track ID</key><integer>557</integer>
+			<key>Name</key><string>后窗</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>38490931</integer>
+			<key>Total Time</key><integer>218200</integer>
+			<key>Date Modified</key><date>2017-11-11T02:54:16Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B0AAFA63B8ECB322</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%90%8E%E7%AA%97.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>559</key>
+		<dict>
+			<key>Track ID</key><integer>559</integer>
+			<key>Name</key><string>恶之华</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>53628359</integer>
+			<key>Total Time</key><integer>304013</integer>
+			<key>Date Modified</key><date>2017-11-11T02:44:52Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659761246</integer>
+			<key>Play Date UTC</key><date>2019-12-21T00:20:46Z</date>
+			<key>Persistent ID</key><string>82B31AD55F1BDA0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%81%B6%E4%B9%8B%E5%8D%8E.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>561</key>
+		<dict>
+			<key>Track ID</key><integer>561</integer>
+			<key>Name</key><string>第一号伤心人（迪克牛仔）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>48693536</integer>
+			<key>Total Time</key><integer>276040</integer>
+			<key>Date Modified</key><date>2017-11-11T03:52:16Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654358913</integer>
+			<key>Play Date UTC</key><date>2019-10-19T11:41:53Z</date>
+			<key>Persistent ID</key><string>506568ED26B01CA1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%AC%AC%E4%B8%80%E5%8F%B7%E4%BC%A4%E5%BF%83%E4%BA%BA%EF%BC%88%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>563</key>
+		<dict>
+			<key>Track ID</key><integer>563</integer>
+			<key>Name</key><string>一起摇摆（汪峰）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>45920528</integer>
+			<key>Total Time</key><integer>260320</integer>
+			<key>Date Modified</key><date>2017-11-11T03:57:36Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>DA1989BFD5586523</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%B8%80%E8%B5%B7%E6%91%87%E6%91%86%EF%BC%88%E6%B1%AA%E5%B3%B0%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>565</key>
+		<dict>
+			<key>Track ID</key><integer>565</integer>
+			<key>Name</key><string>路边的野花不要采 - 臧天朔</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>21579986</integer>
+			<key>Total Time</key><integer>122333</integer>
+			<key>Date Modified</key><date>2017-11-11T02:02:06Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CB2C0310F72C6DE4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%B7%AF%E8%BE%B9%E7%9A%84%E9%87%8E%E8%8A%B1%E4%B8%8D%E8%A6%81%E9%87%87%20-%20%E8%87%A7%E5%A4%A9%E6%9C%94.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>567</key>
+		<dict>
+			<key>Track ID</key><integer>567</integer>
+			<key>Name</key><string>新的恋爱</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>31034740</integer>
+			<key>Total Time</key><integer>175933</integer>
+			<key>Date Modified</key><date>2017-11-11T01:28:20Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1E4F311C6F17B622</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%96%B0%E7%9A%84%E6%81%8B%E7%88%B1.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>569</key>
+		<dict>
+			<key>Track ID</key><integer>569</integer>
+			<key>Name</key><string>请走人行道（指南针乐队）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>54406544</integer>
+			<key>Total Time</key><integer>308426</integer>
+			<key>Date Modified</key><date>2017-11-11T03:58:32Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4F8CD166AB1944C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%AF%B7%E8%B5%B0%E4%BA%BA%E8%A1%8C%E9%81%93%EF%BC%88%E6%8C%87%E5%8D%97%E9%92%88%E4%B9%90%E9%98%9F%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>571</key>
+		<dict>
+			<key>Track ID</key><integer>571</integer>
+			<key>Name</key><string>等玉人</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>34932367</integer>
+			<key>Total Time</key><integer>198026</integer>
+			<key>Date Modified</key><date>2017-11-11T02:58:00Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654358622</integer>
+			<key>Play Date UTC</key><date>2019-10-19T11:37:02Z</date>
+			<key>Persistent ID</key><string>73240D643C414E82</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%AD%89%E7%8E%89%E4%BA%BA.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>573</key>
+		<dict>
+			<key>Track ID</key><integer>573</integer>
+			<key>Name</key><string>此时此刻（许巍）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>71037536</integer>
+			<key>Total Time</key><integer>402706</integer>
+			<key>Date Modified</key><date>2017-11-11T03:56:08Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654358080</integer>
+			<key>Play Date UTC</key><date>2019-10-19T11:28:00Z</date>
+			<key>Persistent ID</key><string>D0E07F13D7837E67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%AD%A4%E6%97%B6%E6%AD%A4%E5%88%BB%EF%BC%88%E8%AE%B8%E5%B7%8D%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>575</key>
+		<dict>
+			<key>Track ID</key><integer>575</integer>
+			<key>Name</key><string>bridge 2</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>6313191</integer>
+			<key>Total Time</key><integer>35786</integer>
+			<key>Date Modified</key><date>2017-11-11T02:44:10Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FA199B149A826600</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/bridge%202.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>577</key>
+		<dict>
+			<key>Track ID</key><integer>577</integer>
+			<key>Name</key><string>迷戀</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>44001698</integer>
+			<key>Total Time</key><integer>249440</integer>
+			<key>Date Modified</key><date>2017-11-11T02:48:12Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F219CEAF34C70E46</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%BF%B7%E6%88%80.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>579</key>
+		<dict>
+			<key>Track ID</key><integer>579</integer>
+			<key>Name</key><string>Outro</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>17562797</integer>
+			<key>Total Time</key><integer>99560</integer>
+			<key>Date Modified</key><date>2017-11-11T02:43:32Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8B319BFDB379C406</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/Outro.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>581</key>
+		<dict>
+			<key>Track ID</key><integer>581</integer>
+			<key>Name</key><string>晚节不保</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>33732841</integer>
+			<key>Total Time</key><integer>191226</integer>
+			<key>Date Modified</key><date>2017-11-11T02:52:06Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>174F6BE04EFE01CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%99%9A%E8%8A%82%E4%B8%8D%E4%BF%9D.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>583</key>
+		<dict>
+			<key>Track ID</key><integer>583</integer>
+			<key>Name</key><string>出发（大地乐队）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>47846816</integer>
+			<key>Total Time</key><integer>271240</integer>
+			<key>Date Modified</key><date>2017-11-11T03:55:34Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654357142</integer>
+			<key>Play Date UTC</key><date>2019-10-19T11:12:22Z</date>
+			<key>Persistent ID</key><string>7422316F17A14032</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%87%BA%E5%8F%91%EF%BC%88%E5%A4%A7%E5%9C%B0%E4%B9%90%E9%98%9F%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>585</key>
+		<dict>
+			<key>Track ID</key><integer>585</integer>
+			<key>Name</key><string>赤裸裸（郑钧）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>49742528</integer>
+			<key>Total Time</key><integer>281986</integer>
+			<key>Date Modified</key><date>2017-11-11T03:59:04Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654356842</integer>
+			<key>Play Date UTC</key><date>2019-10-19T11:07:22Z</date>
+			<key>Persistent ID</key><string>8B144F8ABC933450</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%B5%A4%E8%A3%B8%E8%A3%B8%EF%BC%88%E9%83%91%E9%92%A7%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>587</key>
+		<dict>
+			<key>Track ID</key><integer>587</integer>
+			<key>Name</key><string>一块红布（崔健）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>49041632</integer>
+			<key>Total Time</key><integer>278013</integer>
+			<key>Date Modified</key><date>2017-11-11T03:53:30Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>79BC2ECC5CDB1120</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%B8%80%E5%9D%97%E7%BA%A2%E5%B8%83%EF%BC%88%E5%B4%94%E5%81%A5%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>589</key>
+		<dict>
+			<key>Track ID</key><integer>589</integer>
+			<key>Name</key><string>蓝莲花（许巍）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>47338784</integer>
+			<key>Total Time</key><integer>268360</integer>
+			<key>Date Modified</key><date>2017-11-11T03:54:44Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F59EF52414A9F05F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%93%9D%E8%8E%B2%E8%8A%B1%EF%BC%88%E8%AE%B8%E5%B7%8D%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>591</key>
+		<dict>
+			<key>Track ID</key><integer>591</integer>
+			<key>Name</key><string>相信自己（零点乐队）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>37822592</integer>
+			<key>Total Time</key><integer>214413</integer>
+			<key>Date Modified</key><date>2017-11-11T03:53:42Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>8B6B6F8180383F15</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%9B%B8%E4%BF%A1%E8%87%AA%E5%B7%B1%EF%BC%88%E9%9B%B6%E7%82%B9%E4%B9%90%E9%98%9F%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>593</key>
+		<dict>
+			<key>Track ID</key><integer>593</integer>
+			<key>Name</key><string>繼續追尋</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>61357112</integer>
+			<key>Total Time</key><integer>347826</integer>
+			<key>Date Modified</key><date>2017-11-11T02:47:10Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9CFAB20D96EFC920</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%B9%BC%E7%BA%8C%E8%BF%BD%E5%B0%8B.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>595</key>
+		<dict>
+			<key>Track ID</key><integer>595</integer>
+			<key>Name</key><string>许多天来我很难过</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>47324936</integer>
+			<key>Total Time</key><integer>268280</integer>
+			<key>Date Modified</key><date>2017-11-11T02:01:34Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>7AE8F265706D1E5B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%AE%B8%E5%A4%9A%E5%A4%A9%E6%9D%A5%E6%88%91%E5%BE%88%E9%9A%BE%E8%BF%87.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>597</key>
+		<dict>
+			<key>Track ID</key><integer>597</integer>
+			<key>Name</key><string>孤独的人是可耻的</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>41955443</integer>
+			<key>Total Time</key><integer>237840</integer>
+			<key>Date Modified</key><date>2017-11-11T01:58:54Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659765526</integer>
+			<key>Play Date UTC</key><date>2019-12-21T01:32:06Z</date>
+			<key>Persistent ID</key><string>3809E44E5AA1C84D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%AD%A4%E7%8B%AC%E7%9A%84%E4%BA%BA%E6%98%AF%E5%8F%AF%E8%80%BB%E7%9A%84.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>599</key>
+		<dict>
+			<key>Track ID</key><integer>599</integer>
+			<key>Name</key><string>bridge 1</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>10062279</integer>
+			<key>Total Time</key><integer>57040</integer>
+			<key>Date Modified</key><date>2017-11-11T02:44:16Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>18F9388E2BEEEE27</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/bridge%201.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>601</key>
+		<dict>
+			<key>Track ID</key><integer>601</integer>
+			<key>Name</key><string>馬路天使(我們就是這樣長大的)</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>42842203</integer>
+			<key>Total Time</key><integer>242866</integer>
+			<key>Date Modified</key><date>2017-11-11T02:47:44Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3D4B534733B0EC73</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%A6%AC%E8%B7%AF%E5%A4%A9%E4%BD%BF(%E6%88%91%E5%80%91%E5%B0%B1%E6%98%AF%E9%80%99%E6%A8%A3%E9%95%B7%E5%A4%A7%E7%9A%84).wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>603</key>
+		<dict>
+			<key>Track ID</key><integer>603</integer>
+			<key>Name</key><string>中国人民解放军军歌</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>38027636</integer>
+			<key>Total Time</key><integer>215573</integer>
+			<key>Date Modified</key><date>2017-11-11T01:56:14Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>371854D5C1C3AF70</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E5%86%9B%E6%AD%8C.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>605</key>
+		<dict>
+			<key>Track ID</key><integer>605</integer>
+			<key>Name</key><string>天花乱坠</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>43684153</integer>
+			<key>Total Time</key><integer>247640</integer>
+			<key>Date Modified</key><date>2017-11-11T02:52:34Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FE4E9B4ED75930D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%A4%A9%E8%8A%B1%E4%B9%B1%E5%9D%A0.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>607</key>
+		<dict>
+			<key>Track ID</key><integer>607</integer>
+			<key>Name</key><string>沉默风暴</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>46398371</integer>
+			<key>Total Time</key><integer>263026</integer>
+			<key>Date Modified</key><date>2017-11-11T02:58:24Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654356556</integer>
+			<key>Play Date UTC</key><date>2019-10-19T11:02:36Z</date>
+			<key>Persistent ID</key><string>22AAE655195298E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%B2%89%E9%BB%98%E9%A3%8E%E6%9A%B4.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>609</key>
+		<dict>
+			<key>Track ID</key><integer>609</integer>
+			<key>Name</key><string>爱人 - 黑豹乐队</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>31898196</integer>
+			<key>Total Time</key><integer>180826</integer>
+			<key>Date Modified</key><date>2017-11-11T02:03:10Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3655546104</integer>
+			<key>Play Date UTC</key><date>2019-11-02T05:28:24Z</date>
+			<key>Persistent ID</key><string>1D42350F414700FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%88%B1%E4%BA%BA%20-%20%E9%BB%91%E8%B1%B9%E4%B9%90%E9%98%9F.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>611</key>
+		<dict>
+			<key>Track ID</key><integer>611</integer>
+			<key>Name</key><string>爱情（许巍）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>56565680</integer>
+			<key>Total Time</key><integer>320666</integer>
+			<key>Date Modified</key><date>2017-11-11T03:53:34Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3655545833</integer>
+			<key>Play Date UTC</key><date>2019-11-02T05:23:53Z</date>
+			<key>Persistent ID</key><string>DBA18457516B6109</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%88%B1%E6%83%85%EF%BC%88%E8%AE%B8%E5%B7%8D%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>613</key>
+		<dict>
+			<key>Track ID</key><integer>613</integer>
+			<key>Name</key><string>厕所和床</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>30917495</integer>
+			<key>Total Time</key><integer>175266</integer>
+			<key>Date Modified</key><date>2017-11-11T02:00:58Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654356277</integer>
+			<key>Play Date UTC</key><date>2019-10-19T10:57:57Z</date>
+			<key>Persistent ID</key><string>EA2080532946C385</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%8E%95%E6%89%80%E5%92%8C%E5%BA%8A.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>615</key>
+		<dict>
+			<key>Track ID</key><integer>615</integer>
+			<key>Name</key><string>别对我说失去了baby</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>34562740</integer>
+			<key>Total Time</key><integer>195933</integer>
+			<key>Date Modified</key><date>2017-11-11T01:27:38Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654355555</integer>
+			<key>Play Date UTC</key><date>2019-10-19T10:45:55Z</date>
+			<key>Persistent ID</key><string>4D386E0600AEB87E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%88%AB%E5%AF%B9%E6%88%91%E8%AF%B4%E5%A4%B1%E5%8E%BB%E4%BA%86baby.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>617</key>
+		<dict>
+			<key>Track ID</key><integer>617</integer>
+			<key>Name</key><string>兄弟</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>39184800</integer>
+			<key>Total Time</key><integer>222133</integer>
+			<key>Date Modified</key><date>2017-11-11T01:57:44Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>114E3E71E27EA5B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%85%84%E5%BC%9F.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>619</key>
+		<dict>
+			<key>Track ID</key><integer>619</integer>
+			<key>Name</key><string>国际歌</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>47405045</integer>
+			<key>Total Time</key><integer>268733</integer>
+			<key>Date Modified</key><date>2017-11-11T01:57:50Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659766107</integer>
+			<key>Play Date UTC</key><date>2019-12-21T01:41:47Z</date>
+			<key>Persistent ID</key><string>3B7A3C2542EB2284</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%9B%BD%E9%99%85%E6%AD%8C.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>621</key>
+		<dict>
+			<key>Track ID</key><integer>621</integer>
+			<key>Name</key><string>故意（王啸坤）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>55011008</integer>
+			<key>Total Time</key><integer>311853</integer>
+			<key>Date Modified</key><date>2017-11-11T03:56:44Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659765838</integer>
+			<key>Play Date UTC</key><date>2019-12-21T01:37:18Z</date>
+			<key>Persistent ID</key><string>4C7F2151E4B4CD64</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%95%85%E6%84%8F%EF%BC%88%E7%8E%8B%E5%95%B8%E5%9D%A4%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>623</key>
+		<dict>
+			<key>Track ID</key><integer>623</integer>
+			<key>Name</key><string>泪桥（伍佰）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>40223984</integer>
+			<key>Total Time</key><integer>228026</integer>
+			<key>Date Modified</key><date>2017-11-11T03:54:00Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>002239697B2ECCE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%B3%AA%E6%A1%A5%EF%BC%88%E4%BC%8D%E4%BD%B0%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>625</key>
+		<dict>
+			<key>Track ID</key><integer>625</integer>
+			<key>Name</key><string>无法逃脱（指南针乐队）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>70990496</integer>
+			<key>Total Time</key><integer>402440</integer>
+			<key>Date Modified</key><date>2017-11-11T03:55:24Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EB61E2DEDD3CF342</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%97%A0%E6%B3%95%E9%80%83%E8%84%B1%EF%BC%88%E6%8C%87%E5%8D%97%E9%92%88%E4%B9%90%E9%98%9F%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>627</key>
+		<dict>
+			<key>Track ID</key><integer>627</integer>
+			<key>Name</key><string>时间</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>127029367</integer>
+			<key>Total Time</key><integer>720120</integer>
+			<key>Date Modified</key><date>2017-11-11T01:55:26Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F1C961C8A52D1D34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%97%B6%E9%97%B4.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>629</key>
+		<dict>
+			<key>Track ID</key><integer>629</integer>
+			<key>Name</key><string>海啸</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>39928153</integer>
+			<key>Total Time</key><integer>226346</integer>
+			<key>Date Modified</key><date>2017-11-11T02:52:20Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B6A97C31386EB165</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%B5%B7%E5%95%B8.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>631</key>
+		<dict>
+			<key>Track ID</key><integer>631</integer>
+			<key>Name</key><string>(風流總被雨打風吹去)末世情</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>56923622</integer>
+			<key>Total Time</key><integer>322693</integer>
+			<key>Date Modified</key><date>2017-11-11T02:49:02Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659764255</integer>
+			<key>Play Date UTC</key><date>2019-12-21T01:10:55Z</date>
+			<key>Persistent ID</key><string>7779402458249A36</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/(%E9%A2%A8%E6%B5%81%E7%B8%BD%E8%A2%AB%E9%9B%A8%E6%89%93%E9%A2%A8%E5%90%B9%E5%8E%BB)%E6%9C%AB%E4%B8%96%E6%83%85.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>633</key>
+		<dict>
+			<key>Track ID</key><integer>633</integer>
+			<key>Name</key><string>罗马冬假</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>45723487</integer>
+			<key>Total Time</key><integer>259200</integer>
+			<key>Date Modified</key><date>2017-11-11T02:51:26Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1145389CD0951A0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%BD%97%E9%A9%AC%E5%86%AC%E5%81%87.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>635</key>
+		<dict>
+			<key>Track ID</key><integer>635</integer>
+			<key>Name</key><string>爱的箴言 - 黑豹乐队</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>44366154</integer>
+			<key>Total Time</key><integer>251506</integer>
+			<key>Date Modified</key><date>2017-11-11T02:03:50Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3655545132</integer>
+			<key>Play Date UTC</key><date>2019-11-02T05:12:12Z</date>
+			<key>Persistent ID</key><string>FCBB9E7D995B7675</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%88%B1%E7%9A%84%E7%AE%B4%E8%A8%80%20-%20%E9%BB%91%E8%B1%B9%E4%B9%90%E9%98%9F.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>637</key>
+		<dict>
+			<key>Track ID</key><integer>637</integer>
+			<key>Name</key><string>猴子</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>21344503</integer>
+			<key>Total Time</key><integer>121000</integer>
+			<key>Date Modified</key><date>2017-11-11T01:27:04Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3314B23B9E37E7E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%8C%B4%E5%AD%90.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>639</key>
+		<dict>
+			<key>Track ID</key><integer>639</integer>
+			<key>Name</key><string>半生缘</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>40047957</integer>
+			<key>Total Time</key><integer>227026</integer>
+			<key>Date Modified</key><date>2017-11-11T02:55:54Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654354781</integer>
+			<key>Play Date UTC</key><date>2019-10-19T10:33:01Z</date>
+			<key>Persistent ID</key><string>D7ECBBD99685E630</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E5%8D%8A%E7%94%9F%E7%BC%98.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>641</key>
+		<dict>
+			<key>Track ID</key><integer>641</integer>
+			<key>Name</key><string>Midnight breakout</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>58099553</integer>
+			<key>Total Time</key><integer>329360</integer>
+			<key>Date Modified</key><date>2017-11-11T02:45:32Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>825C517C9E9708FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/Midnight%20breakout.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>643</key>
+		<dict>
+			<key>Track ID</key><integer>643</integer>
+			<key>Name</key><string>灵犀一点</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>39643448</integer>
+			<key>Total Time</key><integer>224733</integer>
+			<key>Date Modified</key><date>2017-11-11T02:56:48Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F4A205BF918E25DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%81%B5%E7%8A%80%E4%B8%80%E7%82%B9.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>645</key>
+		<dict>
+			<key>Track ID</key><integer>645</integer>
+			<key>Name</key><string>Take Me Away</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>36750232</integer>
+			<key>Total Time</key><integer>208333</integer>
+			<key>Date Modified</key><date>2017-11-11T01:46:40Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9116D83477ED35EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/Take%20Me%20Away.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>647</key>
+		<dict>
+			<key>Track ID</key><integer>647</integer>
+			<key>Name</key><string>过时</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>39172663</integer>
+			<key>Total Time</key><integer>222066</integer>
+			<key>Date Modified</key><date>2017-11-11T01:28:00Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>48FBCCF79B492059</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%BF%87%E6%97%B6.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>649</key>
+		<dict>
+			<key>Track ID</key><integer>649</integer>
+			<key>Name</key><string>石头记</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>47365029</integer>
+			<key>Total Time</key><integer>268506</integer>
+			<key>Date Modified</key><date>2017-11-11T02:53:08Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>482E2E182F38A504</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%9F%B3%E5%A4%B4%E8%AE%B0.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>651</key>
+		<dict>
+			<key>Track ID</key><integer>651</integer>
+			<key>Name</key><string>暗器</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>45013177</integer>
+			<key>Total Time</key><integer>255173</integer>
+			<key>Date Modified</key><date>2017-11-11T02:51:24Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654354269</integer>
+			<key>Play Date UTC</key><date>2019-10-19T10:24:29Z</date>
+			<key>Persistent ID</key><string>FC780D914A4BD2D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%9A%97%E5%99%A8.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>653</key>
+		<dict>
+			<key>Track ID</key><integer>653</integer>
+			<key>Name</key><string>通缉者</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>34520767</integer>
+			<key>Total Time</key><integer>195693</integer>
+			<key>Date Modified</key><date>2017-11-11T02:55:06Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>255F6A1B46D82AED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%80%9A%E7%BC%89%E8%80%85.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>655</key>
+		<dict>
+			<key>Track ID</key><integer>655</integer>
+			<key>Name</key><string>贫瘠之歌（汪峰）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>39666560</integer>
+			<key>Total Time</key><integer>224866</integer>
+			<key>Date Modified</key><date>2017-11-11T03:59:44Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>6027B759541EA20F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E8%B4%AB%E7%98%A0%E4%B9%8B%E6%AD%8C%EF%BC%88%E6%B1%AA%E5%B3%B0%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>657</key>
+		<dict>
+			<key>Track ID</key><integer>657</integer>
+			<key>Name</key><string>陌生人 (国语)</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>44474587</integer>
+			<key>Total Time</key><integer>252120</integer>
+			<key>Date Modified</key><date>2017-11-11T02:51:30Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>32DC290142E0947D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E9%99%8C%E7%94%9F%E4%BA%BA%20(%E5%9B%BD%E8%AF%AD).wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>659</key>
+		<dict>
+			<key>Track ID</key><integer>659</integer>
+			<key>Name</key><string>春光乍泄</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>42294121</integer>
+			<key>Total Time</key><integer>239760</integer>
+			<key>Date Modified</key><date>2017-11-11T02:54:34Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654357645</integer>
+			<key>Play Date UTC</key><date>2019-10-19T11:20:45Z</date>
+			<key>Persistent ID</key><string>2E0D1B5280727FBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%98%A5%E5%85%89%E4%B9%8D%E6%B3%84.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>661</key>
+		<dict>
+			<key>Track ID</key><integer>661</integer>
+			<key>Name</key><string>浪漫的年头</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>46838218</integer>
+			<key>Total Time</key><integer>265520</integer>
+			<key>Date Modified</key><date>2017-11-11T02:56:50Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>140E6047A799D9B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%B5%AA%E6%BC%AB%E7%9A%84%E5%B9%B4%E5%A4%B4.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>663</key>
+		<dict>
+			<key>Track ID</key><integer>663</integer>
+			<key>Name</key><string>星航者发现号</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>84319399</integer>
+			<key>Total Time</key><integer>478000</integer>
+			<key>Date Modified</key><date>2017-11-11T01:54:44Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>7064A6C20763678D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%98%9F%E8%88%AA%E8%80%85%E5%8F%91%E7%8E%B0%E5%8F%B7.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>665</key>
+		<dict>
+			<key>Track ID</key><integer>665</integer>
+			<key>Name</key><string>不能不说</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>93395900</integer>
+			<key>Total Time</key><integer>529453</integer>
+			<key>Date Modified</key><date>2017-11-11T02:00:34Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3654356101</integer>
+			<key>Play Date UTC</key><date>2019-10-19T10:55:01Z</date>
+			<key>Persistent ID</key><string>16139AD34918F3C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%B8%8D%E8%83%BD%E4%B8%8D%E8%AF%B4.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>667</key>
+		<dict>
+			<key>Track ID</key><integer>667</integer>
+			<key>Name</key><string>今夜星光灿烂</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>53132143</integer>
+			<key>Total Time</key><integer>301200</integer>
+			<key>Date Modified</key><date>2017-11-11T02:54:02Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>94C357F81A650576</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E4%BB%8A%E5%A4%9C%E6%98%9F%E5%85%89%E7%81%BF%E7%83%82.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>669</key>
+		<dict>
+			<key>Track ID</key><integer>669</integer>
+			<key>Name</key><string>死了都要爱（信乐团）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>47839760</integer>
+			<key>Total Time</key><integer>271200</integer>
+			<key>Date Modified</key><date>2017-11-11T03:56:46Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>32FCB6B272530A7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E6%AD%BB%E4%BA%86%E9%83%BD%E8%A6%81%E7%88%B1%EF%BC%88%E4%BF%A1%E4%B9%90%E5%9B%A2%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>671</key>
+		<dict>
+			<key>Track ID</key><integer>671</integer>
+			<key>Name</key><string>爱不爱我（零点乐队）</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>57828704</integer>
+			<key>Total Time</key><integer>327826</integer>
+			<key>Date Modified</key><date>2017-11-11T03:56:30Z</date>
+			<key>Date Added</key><date>2019-10-19T09:42:53Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3655544880</integer>
+			<key>Play Date UTC</key><date>2019-11-02T05:08:00Z</date>
+			<key>Persistent ID</key><string>D845F485BE6E6AAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/%E7%88%B1%E4%B8%8D%E7%88%B1%E6%88%91%EF%BC%88%E9%9B%B6%E7%82%B9%E4%B9%90%E9%98%9F%EF%BC%89.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1427</key>
+		<dict>
+			<key>Track ID</key><integer>1427</integer>
+			<key>Name</key><string>999朵玫瑰</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>46370009</integer>
+			<key>Total Time</key><integer>262866</integer>
+			<key>Date Modified</key><date>2017-10-17T11:38:03Z</date>
+			<key>Date Added</key><date>2019-12-21T01:41:50Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-21T01:42:05Z</date>
+			<key>Persistent ID</key><string>FE498B7C7371B7C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E5%BD%93%E4%BB%A3%E6%B5%81%E8%A1%8C%5D/999%E6%9C%B5%E7%8E%AB%E7%91%B0.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1432</key>
+		<dict>
+			<key>Track ID</key><integer>1432</integer>
+			<key>Name</key><string>11个绿度母</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>66383323</integer>
+			<key>Total Time</key><integer>376320</integer>
+			<key>Date Modified</key><date>2017-10-05T05:03:04Z</date>
+			<key>Date Added</key><date>2019-12-21T01:41:50Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>41C29B2D6A8DE8F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E5%BD%93%E4%BB%A3%E6%B5%81%E8%A1%8C%5D/11%E4%B8%AA%E7%BB%BF%E5%BA%A6%E6%AF%8D.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1467</key>
+		<dict>
+			<key>Track ID</key><integer>1467</integer>
+			<key>Name</key><string>999朵玫瑰</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>46370009</integer>
+			<key>Total Time</key><integer>262866</integer>
+			<key>Date Modified</key><date>2017-10-17T11:38:03Z</date>
+			<key>Date Added</key><date>2019-12-21T01:42:05Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B17B8B77D2C39CEC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/999%E6%9C%B5%E7%8E%AB%E7%91%B0.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1472</key>
+		<dict>
+			<key>Track ID</key><integer>1472</integer>
+			<key>Name</key><string>11个绿度母</string>
+			<key>Kind</key><string>WAV音频文件</string>
+			<key>Size</key><integer>66383323</integer>
+			<key>Total Time</key><integer>376320</integer>
+			<key>Date Modified</key><date>2017-10-05T05:03:04Z</date>
+			<key>Date Added</key><date>2019-12-21T01:42:05Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>9A5345C85411443C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Volumes/DATA_1T/%5B%E6%B5%81%E8%A1%8C%E6%91%87%E6%BB%9A%5D/11%E4%B8%AA%E7%BB%BF%E5%BA%A6%E6%AF%8D.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>音乐</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>1061</integer>
+			<key>Playlist Persistent ID</key><string>7488E0179B608BB3</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>635</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>639</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>665</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>659</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>571</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>553</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>647</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>637</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>507</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>453</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>485</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>537</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>643</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>431</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>427</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>657</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>397</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>449</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>377</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>373</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>649</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>627</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>519</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>351</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>349</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>343</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>337</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>625</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>617</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>309</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>307</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>483</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>459</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>301</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>641</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>299</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>295</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1472</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1427</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1467</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
